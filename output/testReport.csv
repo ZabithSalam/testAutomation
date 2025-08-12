@@ -1,0 +1,7 @@
+2025-08-12 17:22:49 ,register,2,PASS,"enter the first name, last name , click submit button","" 
+2025-08-12 17:24:20 ,register,3,FAIL,"enter user name only","Expected condition failed: waiting for presence of element located by: By.xpath: /html/body/div[2]/t" 
+2025-08-12 17:28:17 ,register,2,PASS,"enter the first name, last name , click submit button","" 
+2025-08-12 17:28:58 ,register,3,FAIL,"enter user name only","Expected condition failed: waiting for presence of element located by: By.xpath: /html/body/div[2]/t" 
+2025-08-12 17:29:09 ,register,4,PASS,"enter password only","" 
+2025-08-12 17:29:11 ,register,5,PASS,"enter user name and password only","" 
+2025-08-12 17:29:13 ,register,6,PASS,"enter user name password and confirm password","" 

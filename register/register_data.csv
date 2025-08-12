@@ -1,6 +1,6 @@
-﻿Test Suite,Enabled,Description,firstName,lastName,userName,passWord,confirmPassword
-register,1,"enter the first name, last name , click submit button",Naflan,Niyas,,,
-register,1,enter user name only,,,naflan,,
-register,1,enter password only,,,,abc123,
-register,1,enter user name and password only,,,naflan,abc123,
-register,1,enter user name password and confirm password,,,naflan,abc123,abc123
+﻿Test Suite,Enabled,Description,firstName,lastName,userName,passWord,confirmPassword,navigatePage
+register,1,"enter the first name, last name , click submit button",Naflan,Niyas,,,,https://demo.guru99.com/test/newtours/register.php
+register,1,enter user name only,,,naflan,,,https://demo.guru99.com/test/newtours/register.php
+register,1,enter password only,,,,abc123,,https://demo.guru99.com/test/newtours/register.php
+register,1,enter user name and password only,,,naflan,abc123,,https://demo.guru99.com/test/newtours/register.php
+register,1,enter user name password and confirm password,,,naflan,abc123,abc123,https://demo.guru99.com/test/newtours/register.php

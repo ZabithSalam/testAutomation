@@ -1,5 +1,5 @@
 ﻿Test Suite,Description,Object,Action,DataColumn,WaitAfter
-register,navigate to website,https://demo.guru99.com/test/newtours/register.php,stpNavigate,,
+register,navigate to website,https://demo.guru99.com/test/newtours/register.php,stpNavigate,navigatePage,
 register,enter the first name,/html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input,input,firstName,
 register,enter last name,/html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input,input,lastName,
 register,enter username,email,input,userName,
