@@ -1,0 +1,2 @@
+2025-08-14 16:10:44,346 EX    29906ms 2,2    Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
+2025-08-14 16:11:04,788 ER        0ms 2,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/input 	Unable to locate By.xpath: /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/input (tried for 5 second(s) with 500 milliseconds interval) 
