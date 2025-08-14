@@ -1,22 +1,17 @@
-<<<<<<< HEAD
+
 Test Suite,Enabled,Description,firstname,lastname,phone,email,address,city,state,postalcode,country,userName,password,confirmpassword,,errMsg
 SignUp,1,Verify registration page loads correctly,,,,,,,,,,,,,,
-=======
 Test Suite,Enabled,Description,firstname,lastname,phonenumber,email,address,city,state,postalcode,country,userName,password,confirmpassword,,errMsg
 SignUp,1,Verify registration page loads correctly,,,,,,,,,,,,,,
 SignUp,1,"Entering the firstname ,last name, click submit button",nimasha,weragama,,,,,,,,,,,,
->>>>>>> 27bf102f4d49f3c53eb67ded377b97d9d048c465
 SignUp,1,Verify successful registration with all valid inputs,nimasha,weragama,712402274,nimasha@gmail.com,welisara,colombo,colombo,7172,SRI LANKA,nimasha,1234,1234,,
 SignUp,1,Check behavior when password and confirm password do not match,,,,,,,,,,,Test@123,Test@456,,
 SignUp,1,"Check registration with invalid email format, Invalid Email",,,,nimasha@12@.com,,,,,,,,,,
 SignUp,1,"Check if phone number field accepts only numbers, Invalid Phone  Number",,,0712@24*43,,,,,,,,,,,
-<<<<<<< HEAD
 SignUp,1,Verify that clicking submit processes with blank fields ,dasuni,shashi,,,,,,,SRI LANKA,,,,,
 SignUp,1," Verify country dropdown functionality , The country exists in the list",,,,,,,,,SRI LANKA,,,,,
 SignUp,1,Verify registration fails when using an already registered username,,,,,,,,,,nimasha,1234,1234,,
-=======
 SignUp,1,"Verify that clicking submit processes the form, Valid user details ",dasuni,shashi,714526314,dasuni@gmail.com,welisara,colombo,colombo,7845,SRI LANKA,dasuni,4563,4563,,
 SignUp,1," Verify country dropdown functionality , The country exists in the list",,,,,,,,,SRI LANKA,,,,,
 SignUp,1,"Verify registration fails when using an already registered username, Valid user details",nimasha,weragama,712402274,nimasha@gmail.com,welisara,colombo,colombo,7172,SRI LANKA,nimasha,1234,1234,,
->>>>>>> 27bf102f4d49f3c53eb67ded377b97d9d048c465
 SignUp,1,verify that entering special characters in postal code field not submitted the form,,,,,,,,71$%3,,,,,,

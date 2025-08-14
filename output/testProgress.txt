@@ -1,61 +1,41 @@
-2025-08-14 14:18:34,643 EX     6601ms 2,2    Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
-2025-08-14 14:18:35,123 EX      464ms 2,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-14 14:18:35,210 EX       72ms 2,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-14 14:18:35,281 EX       60ms 2,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-14 14:18:35,349 EX       61ms 2,6    Entered text in      //*[@id="userName"] 	 
-2025-08-14 14:18:35,427 EX       75ms 2,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-14 14:18:35,525 EX       94ms 2,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-14 14:18:35,602 EX       66ms 2,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-14 14:18:35,653 EX       44ms 2,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-14 14:18:35,832 EX      178ms 2,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-14 14:18:35,910 EX       77ms 2,12   Entered text in      //*[@id="email"] 	 
-2025-08-14 14:18:35,984 EX       71ms 2,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-14 14:18:36,053 EX       59ms 2,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-14 14:18:38,700 EX     2646ms 2,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-14 14:18:39,677 EX      976ms 2,16   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
-2025-08-14 14:18:39,758 EX       74ms 2,17   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-14 14:18:39,819 EX       54ms 2,18   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-14 14:18:41,199 EX     1379ms 2,19   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-14 14:18:42,093 EX      893ms 2,20   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
-2025-08-14 14:18:42,184 EX       84ms 2,21   Entered text in      //*[@id="userName"] 	 
-2025-08-14 14:18:43,551 EX     1366ms 2,22   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-14 14:18:44,431 EX      879ms 2,23   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
-2025-08-14 14:18:44,515 EX       76ms 2,24   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-14 14:18:45,925 EX     1408ms 2,25   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-14 14:18:46,802 EX      876ms 2,26   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
-2025-08-14 14:18:46,913 EX      106ms 2,27   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-14 14:18:46,974 EX       53ms 2,28   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-14 14:18:47,141 EX      164ms 2,29   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-14 14:18:48,479 EX     1337ms 2,30   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-14 14:18:49,537 EX     1057ms 2,31   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
-2025-08-14 14:18:49,747 EX      209ms 2,32   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-14 14:18:51,081 EX     1332ms 2,33   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-14 14:18:52,027 EX      944ms 2,34   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
-2025-08-14 14:18:52,121 EX       92ms 2,35   Entered text in      //*[@id="email"] 	 
-2025-08-14 14:18:52,188 EX       63ms 2,36   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-14 14:18:52,239 EX       48ms 2,37   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-14 14:18:53,556 EX     1316ms 2,38   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-14 14:18:54,449 EX      893ms 2,39   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
-2025-08-14 14:18:54,542 EX       91ms 2,40   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-14 14:18:55,881 EX     1339ms 2,41   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-14 14:18:56,836 EX      953ms 2,42   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
-2025-08-14 14:18:56,945 EX      107ms 3,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-14 14:18:57,035 EX       88ms 3,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-14 14:18:57,140 EX      101ms 3,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-14 14:18:57,246 EX      104ms 3,6    Entered text in      //*[@id="userName"] 	 
-2025-08-14 14:18:57,338 EX       85ms 3,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-14 14:18:57,451 EX      111ms 3,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-14 14:18:57,550 EX       99ms 3,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-14 14:18:57,619 EX       57ms 3,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-14 14:18:57,788 EX      159ms 3,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-14 14:18:57,921 EX      128ms 3,12   Entered text in      //*[@id="email"] 	 
-2025-08-14 14:18:57,986 EX       63ms 3,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-14 14:18:58,040 EX       53ms 3,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-14 14:18:59,547 EX     1505ms 3,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-14 14:19:02,336 ER        0ms 3,17   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	BrowsingContext does no longer exist
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
-System info: host: 'LAPTOP-SKAIF6LV', ip: '192.168.1.160', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 141.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20250806102122, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 24796, moz:profile: C:\Users\MYPC~1\AppData\Loc..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
-Session ID: abffb9ac-82ac-4618-896d-fc2874242f95
-*** Element info: {Using=xpath, value=/html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input} 
+2025-08-14 16:16:58,615 EX    10680ms 2,2    Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
+2025-08-14 16:16:58,820 EX      197ms 2,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 16:16:58,914 EX       92ms 2,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 16:16:58,998 EX       82ms 2,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 16:16:59,082 EX       76ms 2,6    Entered text in      //*[@id="userName"] 	 
+2025-08-14 16:16:59,167 EX       83ms 2,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 16:16:59,235 EX       65ms 2,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 16:16:59,289 EX       49ms 2,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 16:16:59,357 EX       60ms 2,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 16:16:59,539 EX      180ms 2,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 16:16:59,611 EX       65ms 2,12   Entered text in      //*[@id="email"] 	 
+2025-08-14 16:16:59,676 EX       63ms 2,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 16:16:59,722 EX       43ms 2,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 16:17:02,296 EX     2572ms 2,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 16:17:03,099 EX      800ms 2,16   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
+2025-08-14 16:17:03,196 EX       86ms 2,17   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 16:17:03,247 EX       49ms 2,18   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 16:17:04,441 EX     1190ms 2,19   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 16:17:05,379 EX      937ms 2,20   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
+2025-08-14 16:17:05,487 EX      105ms 2,21   Entered text in      //*[@id="userName"] 	 
+2025-08-14 16:17:06,897 EX     1406ms 2,22   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 16:17:07,597 EX      699ms 2,23   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
+2025-08-14 16:17:07,725 EX      127ms 2,24   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 16:17:08,995 EX     1269ms 2,25   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 16:17:09,828 EX      832ms 2,26   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
+2025-08-14 16:17:09,937 EX      106ms 2,27   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 16:17:10,004 EX       63ms 2,28   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 16:17:10,176 EX      170ms 2,29   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 16:17:11,427 EX     1248ms 2,30   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 16:17:12,207 EX      778ms 2,31   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
+2025-08-14 16:17:12,411 EX      202ms 2,32   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 16:17:14,235 EX     1823ms 2,33   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 16:17:15,173 EX      937ms 2,34   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
+2025-08-14 16:17:15,279 EX      105ms 2,35   Entered text in      //*[@id="email"] 	 
+2025-08-14 16:17:15,346 EX       65ms 2,36   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 16:17:15,398 EX       49ms 2,37   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 16:17:16,645 EX     1246ms 2,38   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 16:17:17,759 EX     1112ms 2,39   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
+2025-08-14 16:17:17,885 EX      124ms 2,40   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 16:17:19,236 EX     1351ms 2,41   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 16:17:20,190 EX      952ms 2,42   Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
