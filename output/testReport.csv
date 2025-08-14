@@ -51,3 +51,8 @@
 2025-08-14 09:13:56 ,register,17,PASS,"enter first and last name with numerical characters","" 
 2025-08-14 09:13:59 ,register,18,PASS,"enter first and last name with special  characters","" 
 2025-08-14 09:14:03 ,register,19,PASS,"special characters in country","" 
+2025-08-14 09:26:47 ,register,12,PASS,"enter province name with special characters, click register button","" 
+2025-08-14 09:26:52 ,register,16,PASS,"click submit without entering data","" 
+2025-08-14 09:26:56 ,register,17,PASS,"enter first and last name with numerical characters","" 
+2025-08-14 09:27:00 ,register,18,PASS,"enter first and last name with special  characters","" 
+2025-08-14 09:27:03 ,register,19,PASS,"special characters in country","" 
