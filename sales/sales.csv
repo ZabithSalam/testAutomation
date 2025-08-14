@@ -1,0 +1,6 @@
+Test Suite,Description,Object,Action,DataColumn,WaitAfter
+sales,enter price and qty,billcalc.jas:id/txt,kInput,calc,
+sales,click billing button,billcalc.jas:id/txtInvoice,click,,
+sales,"verify first item price, rate, qty, amount","//android.widget.TextView[@resource-id=""billcalc.jas:id/dbg"" and starts-with(@text, '1 |')]",verifyText,verifyItem1,
+sales,"verify second item price, rate, qty, amount","//android.widget.TextView[@resource-id=""billcalc.jas:id/dbg"" and starts-with(@text, '2 |')]",verifyText,verifyItem2,
+sales,verify net total,billcalc.jas:id/tvNetTotal,verifyText,verifyNetTotal,
