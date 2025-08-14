@@ -1,0 +1,20 @@
+Test_Suite,Enabled,Description,firstname,lastname,phonenumber,emailaddress,address, city, province,postalcode,thecountry, username, password,confirmpassword
+signUp,1,"enter the first name, last name , click submit button, click register button",Asama,Amanulla,,,,,,,,,,
+signUp,1,"enter user name only, click register button",,,,,,,,,,asama,,
+signUp,1,"enter password only, click register button",,,,,,,,,,,abc123,
+signUp,1,"enter user name and password only , click register button",,,,,,,,,,asama,abc123,
+signUp,1,"enter user name password and confirm password, click register button",,,,,,,,,,asama,abc123,abc123
+signUp,1,"enter phone number only, click register button",,,123456789,,,,,,,,,
+signUp,1,"enter phone number with special characters, click register button",,,022#$%23564,,,,,,,,,
+signUp,1,"enter wrong email , click register button",,,,acb123gmailcom,,,,,,,,
+signUp,1,"enter city name with numerical, click register button",,,,,,123456789,,,,,,
+signUp,1,"enter province name with numerical, click register button",,,,,,,123456789,,,,,
+signUp,1,"enter province name with special characters, click register button",,,,,,,north w##tern,,,,,
+signUp,1,enter all details and submit,asama,amanulla,123456777,abc@gmail.com,kurunegala,panagamuwa,north western,65500,srilanka,admin,admin,admin
+signUp,1,enter postal code with alphabetical letters,,,,,,,,55abc25,,,,
+signUp,1,give different password for Password and confirm password fields,,,,,,,,,,,abc1230,abc2546
+signUp,1,click submit without entering data,,,,,,,,,,,,
+signUp,1,enter first and last name with numerical characters,asm4802,aam11%lla,,,,,,,,,,
+signUp,1,enter first and last name with special  characters,"a£s""m#a",am119lla,,,,,,,,,,
+signUp,1,special characters in country,,,,,,,,,Sri#$%Lanka,,,
+,,,,,,,,,,,Sri123Lanka,,,
