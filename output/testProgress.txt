@@ -1,141 +1,197 @@
-2025-08-13 12:48:48,260 EX    15277ms 2,2    Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
-2025-08-13 12:48:48,491 EX      229ms 2,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-13 12:48:48,567 EX       75ms 2,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-13 12:48:48,643 EX       75ms 2,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-13 12:48:48,718 EX       73ms 2,6    Entered text in      //*[@id="userName"] 	 
-2025-08-13 12:48:48,791 EX       73ms 2,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
-2025-08-13 12:48:48,871 EX       78ms 2,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-13 12:48:48,941 EX       69ms 2,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-13 12:48:48,997 EX       53ms 2,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-13 12:48:49,180 EX      180ms 2,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-13 12:48:49,266 EX       83ms 2,12   Entered text in      email 	 
-2025-08-13 12:48:49,333 EX       67ms 2,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-13 12:48:49,394 EX       58ms 2,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-13 12:48:51,888 EX     2494ms 2,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-13 12:48:53,551 EX     1661ms 2,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
-2025-08-13 12:48:53,681 EX      124ms 3,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-13 12:48:53,746 EX       63ms 3,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-13 12:48:53,807 EX       59ms 3,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-13 12:48:53,875 EX       67ms 3,6    Entered text in      //*[@id="userName"] 	 
-2025-08-13 12:48:53,943 EX       67ms 3,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
-2025-08-13 12:48:54,005 EX       58ms 3,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-13 12:48:54,065 EX       60ms 3,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-13 12:48:54,122 EX       55ms 3,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-13 12:48:54,307 EX      183ms 3,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-13 12:48:54,373 EX       65ms 3,12   Entered text in      email 	 
-2025-08-13 12:48:54,453 EX       79ms 3,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-13 12:48:54,507 EX       53ms 3,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-13 12:48:56,538 EX     2029ms 3,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-13 12:48:57,603 EX     1063ms 3,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
-2025-08-13 12:48:57,704 EX       98ms 4,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-13 12:48:57,762 EX       55ms 4,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-13 12:48:57,823 EX       58ms 4,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-13 12:48:57,890 EX       67ms 4,6    Entered text in      //*[@id="userName"] 	 
-2025-08-13 12:48:57,951 EX       60ms 4,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
-2025-08-13 12:48:58,008 EX       55ms 4,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-13 12:48:58,067 EX       56ms 4,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-13 12:48:58,123 EX       55ms 4,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-13 12:48:58,284 EX      160ms 4,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-13 12:48:58,372 EX       87ms 4,12   Entered text in      email 	 
-2025-08-13 12:48:58,441 EX       68ms 4,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-13 12:48:58,509 EX       66ms 4,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-13 12:48:59,978 EX     1465ms 4,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-13 12:49:01,105 EX     1126ms 4,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
-2025-08-13 12:49:01,230 EX      117ms 5,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-13 12:49:01,303 EX       70ms 5,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-13 12:49:01,368 EX       56ms 5,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-13 12:49:01,459 EX       87ms 5,6    Entered text in      //*[@id="userName"] 	 
-2025-08-13 12:49:01,537 EX       77ms 5,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
-2025-08-13 12:49:01,602 EX       64ms 5,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-13 12:49:01,663 EX       59ms 5,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-13 12:49:01,743 EX       79ms 5,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-13 12:49:01,918 EX      172ms 5,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-13 12:49:02,018 EX       98ms 5,12   Entered text in      email 	 
-2025-08-13 12:49:02,106 EX       87ms 5,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-13 12:49:02,158 EX       51ms 5,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-13 12:49:02,811 EX      651ms 5,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-13 12:49:05,105 EX     2292ms 5,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
-2025-08-13 12:49:05,219 EX      112ms 6,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-13 12:49:05,286 EX       65ms 6,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-13 12:49:05,349 EX       61ms 6,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-13 12:49:05,415 EX       64ms 6,6    Entered text in      //*[@id="userName"] 	 
-2025-08-13 12:49:05,467 EX       51ms 6,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
-2025-08-13 12:49:05,530 EX       62ms 6,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-13 12:49:05,596 EX       64ms 6,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-13 12:49:05,647 EX       49ms 6,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-13 12:49:05,797 EX      150ms 6,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-13 12:49:05,883 EX       84ms 6,12   Entered text in      email 	 
-2025-08-13 12:49:05,945 EX       61ms 6,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-13 12:49:06,010 EX       63ms 6,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-13 12:49:08,253 EX     2242ms 6,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-13 12:49:10,403 EX     2148ms 6,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
-2025-08-13 12:49:10,518 EX      114ms 7,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-13 12:49:10,583 EX       60ms 7,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-13 12:49:10,652 EX       68ms 7,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-13 12:49:10,723 EX       69ms 7,6    Entered text in      //*[@id="userName"] 	 
-2025-08-13 12:49:10,788 EX       64ms 7,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
-2025-08-13 12:49:10,851 EX       60ms 7,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-13 12:49:10,907 EX       55ms 7,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-13 12:49:10,956 EX       48ms 7,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-13 12:49:11,124 EX      168ms 7,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-13 12:49:11,173 EX       47ms 7,12   Entered text in      email 	 
-2025-08-13 12:49:11,260 EX       84ms 7,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-13 12:49:11,328 EX       67ms 7,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-13 12:49:12,758 EX     1428ms 7,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-13 12:49:13,726 EX      967ms 7,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
-2025-08-13 12:49:13,834 EX      104ms 8,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-13 12:49:13,897 EX       61ms 8,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-13 12:49:13,973 EX       75ms 8,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-13 12:49:14,037 EX       62ms 8,6    Entered text in      //*[@id="userName"] 	 
-2025-08-13 12:49:14,102 EX       65ms 8,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
-2025-08-13 12:49:14,163 EX       55ms 8,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-13 12:49:14,219 EX       55ms 8,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-13 12:49:14,280 EX       60ms 8,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-13 12:49:14,462 EX      180ms 8,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-13 12:49:14,517 EX       53ms 8,12   Entered text in      email 	 
-2025-08-13 12:49:14,580 EX       59ms 8,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-13 12:49:14,633 EX       51ms 8,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-13 12:49:16,131 EX     1496ms 8,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-13 12:49:17,031 EX      900ms 8,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
-2025-08-13 12:49:17,136 EX      103ms 9,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-13 12:49:17,194 EX       58ms 9,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-13 12:49:17,263 EX       66ms 9,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-13 12:49:17,346 EX       80ms 9,6    Entered text in      //*[@id="userName"] 	 
-2025-08-13 12:49:17,401 EX       50ms 9,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
-2025-08-13 12:49:17,470 EX       66ms 9,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-13 12:49:17,521 EX       51ms 9,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-13 12:49:17,578 EX       55ms 9,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-13 12:49:17,732 EX      153ms 9,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-13 12:49:17,787 EX       53ms 9,12   Entered text in      email 	 
-2025-08-13 12:49:17,858 EX       68ms 9,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-13 12:49:17,903 EX       44ms 9,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-13 12:49:19,413 EX     1508ms 9,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-13 12:49:20,467 EX     1054ms 9,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
-2025-08-13 12:49:20,584 EX      115ms 10,3   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-13 12:49:20,652 EX       67ms 10,4   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-13 12:49:20,714 EX       60ms 10,5   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-13 12:49:20,795 EX       80ms 10,6   Entered text in      //*[@id="userName"] 	 
-2025-08-13 12:49:20,860 EX       63ms 10,7   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
-2025-08-13 12:49:20,928 EX       67ms 10,8   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-13 12:49:20,999 EX       67ms 10,9   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-13 12:49:21,050 EX       50ms 10,10  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-13 12:49:21,226 EX      175ms 10,11  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-13 12:49:21,333 EX      105ms 10,12  Entered text in      email 	 
-2025-08-13 12:49:21,401 EX       67ms 10,13  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-13 12:49:21,452 EX       51ms 10,14  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-13 12:49:22,923 EX     1469ms 10,15  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-13 12:49:23,920 EX      996ms 10,16  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
-2025-08-13 12:49:24,044 EX      122ms 11,3   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
-2025-08-13 12:49:24,128 EX       83ms 11,4   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
-2025-08-13 12:49:24,183 EX       52ms 11,5   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
-2025-08-13 12:49:24,238 EX       52ms 11,6   Entered text in      //*[@id="userName"] 	 
-2025-08-13 12:49:24,288 EX       49ms 11,7   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
-2025-08-13 12:49:24,350 EX       58ms 11,8   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
-2025-08-13 12:49:24,415 EX       65ms 11,9   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
-2025-08-13 12:49:24,476 EX       58ms 11,10  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
-2025-08-13 12:49:24,665 EX      189ms 11,11  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
-2025-08-13 12:49:24,746 EX       80ms 11,12  Entered text in      email 	 
-2025-08-13 12:49:24,808 EX       59ms 11,13  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
-2025-08-13 12:49:24,868 EX       59ms 11,14  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
-2025-08-13 12:49:26,288 EX     1419ms 11,15  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
-2025-08-13 12:49:27,270 EX      981ms 11,16  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:51:53,438 EX     8472ms 2,2    Navigated once to    https://demo.guru99.com/test/newtours/register.php 	 
+2025-08-14 08:51:53,651 EX      211ms 2,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:51:53,772 EX      120ms 2,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:51:53,859 EX       86ms 2,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:51:53,927 EX       67ms 2,6    Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:51:53,985 EX       56ms 2,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:51:54,058 EX       72ms 2,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:51:54,137 EX       77ms 2,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:51:54,202 EX       63ms 2,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:51:54,418 EX      215ms 2,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:51:54,511 EX       92ms 2,12   Entered text in      email 	 
+2025-08-14 08:51:54,587 EX       74ms 2,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:51:54,649 EX       59ms 2,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:51:57,367 EX     2718ms 2,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:00,067 EX     2698ms 2,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:00,175 EX      106ms 3,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:00,254 EX       78ms 3,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:00,332 EX       77ms 3,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:00,403 EX       69ms 3,6    Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:00,481 EX       75ms 3,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:00,546 EX       63ms 3,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:00,608 EX       60ms 3,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:00,663 EX       54ms 3,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:00,834 EX      168ms 3,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:00,935 EX      101ms 3,12   Entered text in      email 	 
+2025-08-14 08:52:01,001 EX       63ms 3,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:01,062 EX       57ms 3,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:02,553 EX     1489ms 3,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:03,583 EX     1029ms 3,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:03,686 EX      101ms 4,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:03,758 EX       71ms 4,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:03,835 EX       75ms 4,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:03,900 EX       65ms 4,6    Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:03,971 EX       69ms 4,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:04,035 EX       63ms 4,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:04,097 EX       60ms 4,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:04,155 EX       56ms 4,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:04,344 EX      188ms 4,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:04,442 EX       92ms 4,12   Entered text in      email 	 
+2025-08-14 08:52:04,513 EX       67ms 4,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:04,552 EX       38ms 4,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:05,568 EX     1013ms 4,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:06,636 EX     1067ms 4,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:06,736 EX       97ms 5,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:06,807 EX       71ms 5,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:06,884 EX       74ms 5,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:06,942 EX       56ms 5,6    Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:07,008 EX       63ms 5,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:07,078 EX       67ms 5,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:07,141 EX       61ms 5,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:07,198 EX       56ms 5,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:07,354 EX      155ms 5,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:07,441 EX       86ms 5,12   Entered text in      email 	 
+2025-08-14 08:52:07,503 EX       60ms 5,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:07,558 EX       53ms 5,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:08,579 EX     1018ms 5,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:09,743 EX     1163ms 5,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:09,864 EX      119ms 6,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:09,940 EX       75ms 6,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:09,999 EX       57ms 6,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:10,060 EX       60ms 6,6    Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:10,123 EX       61ms 6,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:10,183 EX       59ms 6,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:10,245 EX       60ms 6,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:10,301 EX       56ms 6,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:10,462 EX      160ms 6,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:10,541 EX       77ms 6,12   Entered text in      email 	 
+2025-08-14 08:52:10,601 EX       60ms 6,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:10,666 EX       63ms 6,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:12,247 EX     1580ms 6,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:13,264 EX     1015ms 6,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:13,370 EX      105ms 7,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:13,430 EX       55ms 7,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:13,531 EX       92ms 7,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:13,598 EX       62ms 7,6    Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:13,654 EX       55ms 7,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:13,715 EX       59ms 7,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:13,779 EX       62ms 7,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:13,819 EX       40ms 7,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:13,983 EX      162ms 7,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:14,040 EX       56ms 7,12   Entered text in      email 	 
+2025-08-14 08:52:14,097 EX       55ms 7,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:14,154 EX       56ms 7,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:15,690 EX     1535ms 7,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:17,596 EX     1905ms 7,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:17,700 EX      102ms 8,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:17,769 EX       67ms 8,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:17,836 EX       67ms 8,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:17,904 EX       66ms 8,6    Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:17,969 EX       64ms 8,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:18,038 EX       67ms 8,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:18,106 EX       67ms 8,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:18,164 EX       57ms 8,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:18,341 EX      175ms 8,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:18,414 EX       71ms 8,12   Entered text in      email 	 
+2025-08-14 08:52:18,479 EX       64ms 8,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:18,548 EX       68ms 8,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:22,903 EX     4354ms 8,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:23,914 EX     1010ms 8,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:24,041 EX      124ms 9,3    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:24,133 EX       89ms 9,4    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:24,217 EX       83ms 9,5    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:24,304 EX       86ms 9,6    Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:24,370 EX       62ms 9,7    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:24,425 EX       53ms 9,8    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:24,487 EX       61ms 9,9    Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:24,548 EX       59ms 9,10   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:24,711 EX      160ms 9,11   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:24,789 EX       77ms 9,12   Entered text in      email 	 
+2025-08-14 08:52:24,875 EX       85ms 9,13   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:24,928 EX       51ms 9,14   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:27,179 EX     2250ms 9,15   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:28,305 EX     1124ms 9,16   Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:28,426 EX      119ms 10,3   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:28,488 EX       59ms 10,4   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:28,550 EX       62ms 10,5   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:28,612 EX       59ms 10,6   Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:28,681 EX       69ms 10,7   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:28,747 EX       64ms 10,8   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:28,817 EX       69ms 10,9   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:28,869 EX       51ms 10,10  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:29,059 EX      188ms 10,11  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:29,118 EX       58ms 10,12  Entered text in      email 	 
+2025-08-14 08:52:29,187 EX       68ms 10,13  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:29,245 EX       58ms 10,14  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:30,596 EX     1349ms 10,15  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:31,762 EX     1164ms 10,16  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:31,854 EX       90ms 11,3   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:31,918 EX       62ms 11,4   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:31,979 EX       60ms 11,5   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:32,041 EX       60ms 11,6   Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:32,111 EX       69ms 11,7   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:32,190 EX       77ms 11,8   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:32,266 EX       75ms 11,9   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:32,334 EX       66ms 11,10  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:32,526 EX      191ms 11,11  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:32,625 EX       97ms 11,12  Entered text in      email 	 
+2025-08-14 08:52:32,689 EX       62ms 11,13  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:32,759 EX       69ms 11,14  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:34,102 EX     1342ms 11,15  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:35,177 EX     1075ms 11,16  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:35,300 EX      121ms 12,3   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:35,361 EX       59ms 12,4   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:35,426 EX       63ms 12,5   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:35,488 EX       60ms 12,6   Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:35,566 EX       78ms 12,7   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:35,626 EX       57ms 12,8   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:35,676 EX       47ms 12,9   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:35,751 EX       74ms 12,10  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:35,920 EX      169ms 12,11  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:35,997 EX       77ms 12,12  Entered text in      email 	 
+2025-08-14 08:52:36,071 EX       72ms 12,13  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:36,151 EX       79ms 12,14  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:37,627 EX     1474ms 12,15  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:38,635 EX     1007ms 12,16  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:38,729 EX       93ms 13,3   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:38,815 EX       85ms 13,4   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:38,894 EX       78ms 13,5   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:38,961 EX       64ms 13,6   Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:39,020 EX       59ms 13,7   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:39,084 EX       63ms 13,8   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:39,142 EX       56ms 13,9   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:39,216 EX       72ms 13,10  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:39,387 EX      171ms 13,11  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:39,448 EX       58ms 13,12  Entered text in      email 	 
+2025-08-14 08:52:39,552 EX      103ms 13,13  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:39,620 EX       67ms 13,14  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:41,188 EX     1566ms 13,15  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:42,246 EX     1058ms 13,16  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:42,362 EX      110ms 14,3   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:42,424 EX       62ms 14,4   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:42,499 EX       74ms 14,5   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:42,562 EX       61ms 14,6   Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:42,627 EX       63ms 14,7   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:42,689 EX       61ms 14,8   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:42,752 EX       62ms 14,9   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:42,802 EX       49ms 14,10  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:42,976 EX      172ms 14,11  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:43,046 EX       70ms 14,12  Entered text in      email 	 
+2025-08-14 08:52:43,110 EX       63ms 14,13  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:43,176 EX       64ms 14,14  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:44,227 EX     1049ms 14,15  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:45,368 EX     1140ms 14,16  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
+2025-08-14 08:52:45,550 EX      138ms 15,3   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input 	 
+2025-08-14 08:52:45,608 EX       53ms 15,4   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input 	 
+2025-08-14 08:52:45,671 EX       61ms 15,5   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td[2]/input 	 
+2025-08-14 08:52:45,731 EX       60ms 15,6   Entered text in      //*[@id="userName"] 	 
+2025-08-14 08:52:45,793 EX       61ms 15,7   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[7]/td[2]/input 	 
+2025-08-14 08:52:45,859 EX       65ms 15,8   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[8]/td[2]/input 	 
+2025-08-14 08:52:45,923 EX       63ms 15,9   Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[9]/td[2]/input 	 
+2025-08-14 08:52:45,980 EX       56ms 15,10  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[10]/td[2]/input 	 
+2025-08-14 08:52:46,144 EX      164ms 15,11  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[11]/td[2]/select 	 
+2025-08-14 08:52:46,269 EX      124ms 15,12  Entered text in      email 	 
+2025-08-14 08:52:46,392 EX      122ms 15,13  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[14]/td[2]/input 	 
+2025-08-14 08:52:46,503 EX      110ms 15,14  Entered text in      /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[15]/td[2]/input 	 
+2025-08-14 08:52:48,166 EX     1661ms 15,15  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[17]/td/input 	 
+2025-08-14 08:52:49,168 EX     1001ms 15,16  Clicked              /html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a 	 
