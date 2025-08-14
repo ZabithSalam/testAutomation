@@ -1,4 +1,4 @@
-Test_Suite,Description,Object,Action,DataColumn,WaitAfter
+﻿Test_Suite,Description,Object,Action,DataColumn,WaitAfter
 signUp,load page,https://demo.guru99.com/test/newtours/register.php,stpNavigate,navigatePage,
 signUp,enter firstname,/html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/input,input,firstname,
 signUp,enterlastname,/html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input,input,lastname,
