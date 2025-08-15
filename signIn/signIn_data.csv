@@ -1,0 +1,2 @@
+Test Suite,Enabled,Description,userName,password,errMsg
+signIn,1,enter username only,standard_user,,Epic sadface: Password is required
