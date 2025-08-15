@@ -1,0 +1,6 @@
+Test Suite,Description,Object,Action,DataColumn,WaitAfter
+signIn,navigate to website,https://www.saucedemo.com/v1/,stpNavigate,,
+signIn,enter username,user-name,input,userName,
+signIn,enter password,password,input,password,
+signIn,click login ,login-button,click,,2
+signIn,verify validation msg,"//*[@id=""login_button_container""]/div/form/h3",verifyText,errMsg,
