@@ -1,3 +1,18 @@
-Task Suite,Enabled,Description,Username,Password,Confirm Password,errMsg
-Register,1,Enter username,passwords,supun,Supun@123,Supun@123,Thank you for registering. You may now sign-in using the user name and password you've just entered.
-Register,1,Enter First Name,firstName,Supun,,,,Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Task Suite,Enabled,Description,firstName,lastName,phoneNumber,email,address,city,state,postalCode,country,username,password,confirmpassword
+register,1,Enter only firstName,Tharindu,,,,,,,,,Supun,,
+register,1,Enter firstName and lastName,Supun,Tharindu,,,,,,,,Supun,,
+register,1,Enter only phoneNumber,,,0752345689,,,,,,,Supun,,
+register,1,Enter text for phoneNumber,,,phone,,,,,,,Supun,,
+register,1,Enter email,,,,tharindu@gmail.com,,,,,,Supun,,
+register,1,Enter invalid email type,,,,tharindu,,,,,,Supun,,
+register,1,Enter address,,,,,123 Main St,,,,,Supun,,
+register,1,Enter city,,,,,,colombo,,,,Supun,,
+register,1,Enter state,,,,,,,hambantota,,,Supun,,
+register,1,Enter postal code,,,,,,,,55886,,Supun,,
+register,1,Enter text for postal code,,,,,,,,postal,,Supun,,
+register,1,Enter country,,,,,,,,,Sri lanka,Supun,,
+register,1,Enter only username and passwords,,,,,,,,,,Supun,Supun@123,Supun@123
+register,1,Enter only username,,,,,,,,,,Supun,,
+register,1,Enter only passwords,,,,,,,,,,,Supun@123,Supun@123
+register,1,Enter all feilds,Tharindu,Kumarasena,0562312345,supun@gmail.com,23 Main St,colombo,hambantota,55886,Sri lanka,Supun,Supun@123,Supun@123
+register,1,Enter submit with empty fields,,,,,,,,,,,,

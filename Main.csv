@@ -1,2 +1,2 @@
-Test Suite,Description,Enabled,Data file
-Register,test the registation,1,,
+Test Suite,Description,Enabled,Data file,Parameters
+register,test the registation,1,,
