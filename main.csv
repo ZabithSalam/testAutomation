@@ -1,2 +1,5 @@
 Test Suite,Description,Enabled,Data File (if not specified default file will be searched according to convention),Parameters
-SignUp,Testing signup scenario of the page,1,,
+SignUp,Testing signup scenario of the page,0,,
+openApp,to open the app,1,,
+sales,test the sales functionality (entering the basic price&qty and verify the bill),1,,
+

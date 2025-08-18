@@ -1,6 +1,3 @@
-
-Test Suite,Enabled,Description,firstname,lastname,phone,email,address,city,state,postalcode,country,userName,password,confirmpassword,,errMsg
-SignUp,1,Verify registration page loads correctly,,,,,,,,,,,,,,
 Test Suite,Enabled,Description,firstname,lastname,phonenumber,email,address,city,state,postalcode,country,userName,password,confirmpassword,,errMsg
 SignUp,1,Verify registration page loads correctly,,,,,,,,,,,,,,
 SignUp,1,"Entering the firstname ,last name, click submit button",nimasha,weragama,,,,,,,,,,,,

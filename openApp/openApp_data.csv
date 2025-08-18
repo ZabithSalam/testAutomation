@@ -1,0 +1,2 @@
+Test Suite,Runmode,appParams
+openApp,1,"billcalc.jas, jas.app.MainActivity, 300"

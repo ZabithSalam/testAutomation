@@ -1,0 +1,2 @@
+Test Suite,Description,Object,Action ,DataColumn,WaitAfter
+openApp,setup platform,"http://127.0.0.1:4723/wd/hub,and,  api30, billcalc.jas, jas.app.MainActivity, 300",open,,
