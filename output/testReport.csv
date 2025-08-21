@@ -1,2 +1,4 @@
 Time,Suite,Case_Row,Status,Description,Error
-2025-08-18 17:21:56 ,openApp,2,PASS,"","" 
+2025-08-21 11:06:58 ,openApp,2,PASS,"","" 
+2025-08-21 11:07:07 ,sales,2,PASS,"enter basic price and qty [500x2+100x2] :1200","" 
+2025-08-21 11:07:13 ,sales,3,PASS,"enter simple price and quantity [100x3] :300","" 

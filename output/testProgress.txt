@@ -1,17 +1,20 @@
-2025-08-18 17:21:56,329 EX    14063ms 2,2    Opened:              http://127.0.0.1:4723/wd/hub,and,  api30, billcalc.jas, jas.app.MainActivity, 300 	 
-2025-08-18 17:22:03,097 EX     6602ms 2,2    keyboard based input billcalc.jas:id/txt 	 
-2025-08-18 17:22:03,695 EX      595ms 2,3    Clicked              billcalc.jas:id/txtInvoice 	 
-2025-08-18 17:22:04,638 EX      942ms 2,4    Verified text in     //android.widget.TextView[@resource-id="billcalc.jas:id/dbg" and starts-with(@text, '1 |')] 	 
-2025-08-18 17:22:04,755 EX      111ms 2,5    Verified text in     //android.widget.TextView[@resource-id="billcalc.jas:id/dbg" and starts-with(@text, '2 |')] 	 
-2025-08-18 17:22:04,826 EX       70ms 2,6    Verified text in     billcalc.jas:id/tvNetTotal 	 
-2025-08-18 17:22:04,945 EX      116ms 2,7    Clicked              //android.widget.ImageView[@content-desc="More options"] 	 
-2025-08-18 17:22:06,788 EX     1841ms 2,8    Clicked              //android.widget.TextView[@resource-id="billcalc.jas:id/title" and @text="BILLING"] 	 
-2025-08-18 17:22:12,835 EX     6037ms 2,9    keyboard based input billcalc.jas:id/txt 	 
-2025-08-18 17:22:13,440 EX      591ms 2,10   Clicked              billcalc.jas:id/txtInvoice 	 
-2025-08-18 17:22:14,238 EX      795ms 2,11   Verified text in     //android.widget.TextView[@resource-id="billcalc.jas:id/dbg" and starts-with(@text, '1 |')] 	 
-2025-08-18 17:22:14,325 EX       84ms 2,12   Verified text in     billcalc.jas:id/tvNetTotal 	 
-2025-08-18 17:22:14,444 EX      117ms 2,13   Clicked              //android.widget.ImageView[@content-desc="More options"] 	 
-2025-08-18 17:22:16,230 EX     1784ms 2,14   Clicked              //android.widget.TextView[@resource-id="billcalc.jas:id/title" and @text="BILLING"] 	 
-2025-08-18 17:22:22,209 EX     5977ms 2,15   keyboard based input billcalc.jas:id/txt 	 
-2025-08-18 17:22:22,806 EX      586ms 2,16   Clicked              billcalc.jas:id/txtInvoice 	 
-2025-08-18 17:22:42,975 ER        0ms 2,17   Verified text in     //android.widget.Toast[@text="😕 Invalid entry"] 	Unable to locate By.xpath: //android.widget.Toast[@text="😕 Invalid entry"] (tried for 5 second(s) with 500 milliseconds interval) 
+2025-08-21 11:06:58,204 EX     6792ms 2,2    Opened:              http://127.0.0.1:4723/wd/hub,and,  api30, billcalc.jas, jas.app.MainActivity, 300 	 
+2025-08-21 11:07:04,475 EX     6220ms 2,2    keyboard based input billcalc.jas:id/txt 	 
+2025-08-21 11:07:05,157 EX      671ms 2,3    Clicked              billcalc.jas:id/txtInvoice 	 
+2025-08-21 11:07:05,861 EX      703ms 2,7    Verified text in     //android.widget.TextView[@resource-id="billcalc.jas:id/dbg" and starts-with(@text, '1 |')] 	 
+2025-08-21 11:07:05,962 EX       99ms 2,8    Verified text in     //android.widget.TextView[@resource-id="billcalc.jas:id/dbg" and starts-with(@text, '2 |')] 	 
+2025-08-21 11:07:06,026 EX       61ms 2,13   Verified text in     billcalc.jas:id/tvNetTotal 	 
+2025-08-21 11:07:06,152 EX      122ms 2,14   Clicked              //android.widget.ImageView[@content-desc="More options"] 	 
+2025-08-21 11:07:07,804 EX     1652ms 2,15   Clicked              //android.widget.TextView[@resource-id="billcalc.jas:id/title" and @text="BILLING"] 	 
+2025-08-21 11:07:10,268 EX     2456ms 3,2    keyboard based input billcalc.jas:id/txt 	 
+2025-08-21 11:07:10,842 EX      565ms 3,3    Clicked              billcalc.jas:id/txtInvoice 	 
+2025-08-21 11:07:11,538 EX      694ms 3,7    Verified text in     //android.widget.TextView[@resource-id="billcalc.jas:id/dbg" and starts-with(@text, '1 |')] 	 
+2025-08-21 11:07:11,600 EX       60ms 3,13   Verified text in     billcalc.jas:id/tvNetTotal 	 
+2025-08-21 11:07:11,696 EX       95ms 3,14   Clicked              //android.widget.ImageView[@content-desc="More options"] 	 
+2025-08-21 11:07:13,556 EX     1855ms 3,15   Clicked              //android.widget.TextView[@resource-id="billcalc.jas:id/title" and @text="BILLING"] 	 
+2025-08-21 11:07:16,048 EX     2486ms 4,2    keyboard based input billcalc.jas:id/txt 	 
+2025-08-21 11:07:16,740 EX      684ms 4,3    Clicked              billcalc.jas:id/txtInvoice 	 
+2025-08-21 11:07:18,532 EX     1758ms 4,4    Verified text in     //android.widget.Toast[@text="😕 Invalid entry"] 	 
+2025-08-21 11:07:18,667 EX      130ms 4,6    Clicked element      billcalc.jas:id/txtAc 	 
+2025-08-21 11:07:19,305 EX      630ms 4,14   Clicked              //android.widget.ImageView[@content-desc="More options"] 	 
+2025-08-21 11:07:39,443 ER        0ms 4,15   Clicked              //android.widget.TextView[@resource-id="billcalc.jas:id/title" and @text="BILLING"] 	Unable to locate By.xpath: //android.widget.TextView[@resource-id="billcalc.jas:id/title" and @text="BILLING"] (tried for 5 second(s) with 500 milliseconds interval) 
